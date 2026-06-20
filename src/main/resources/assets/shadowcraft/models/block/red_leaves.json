@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "shadowcraft:block/red_leaves"
+  }
+}
