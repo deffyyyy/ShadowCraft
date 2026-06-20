@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "shadowcraft:block/ashwood_wood"
+    },
+    "axis=z": {
+      "model": "shadowcraft:block/ashwood_wood",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "shadowcraft:block/ashwood_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
